@@ -1,0 +1,22 @@
+html {
+  background-color: rgb(139, 0, 231);
+}
+body {
+  background-color: rgb(0, 0, 0);
+  font-family: fantasy;
+  border: 7px solid rgb(123, 123, 131);
+  width: 600px;
+  height: 625px;
+  margin: 0 auto;
+  padding: 30px 80px;
+  border-radius: 25px;
+}
+
+h1 {
+  color: rgb(50, 231, 4);
+}
+
+h2 {
+  color: rgb(78, 211, 1);
+}
+s
